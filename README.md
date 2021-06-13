@@ -63,7 +63,7 @@ SMS is a python based script which is made for bombing a number which has a capa
 
 <a href="https://github.com/Malith-Rukshan"><img title="thanks" src="https://img.shields.io/badge/GITHUB-Follow%20Him-blueviolet?style=flat-square&logo=appveyor"></a>
                                                                                                                                                   
-
+<br>
 
 <img src="https://img.shields.io/badge/isuruwa-Thank%20You-brightgreen?style=social&logo=appveyor"/>
 
