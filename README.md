@@ -76,7 +76,7 @@ SMS is a python based script which is made for bombing a number which has a capa
 <img src="https://img.shields.io/badge/isuruwa-EXPECT%20US-red?style=for-the-badge&logo=appveyor"/>
 
 
-##SCREENSHOTS
+## SCREENSHOTS :
 
 ![Screenshot_20210613-151445_Termux](https://user-images.githubusercontent.com/72663288/121805757-26885280-cc6a-11eb-8cb4-18e593927d38.jpg)
 
