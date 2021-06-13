@@ -1,14 +1,14 @@
 
-<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-SMS-blue?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-SMS-blue?style=for-the-badge&logo=appveyor"></a>
 <img src="https://img.icons8.com/nolan/64/auto-sms.png"/>
 <br>
 <p align="center">
 <img src="https://img.icons8.com/nolan/100/sms.png"/>
 <p align="center">
-<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-SPAM%20SMS%20SENDER-brightgreen?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-SPAM%20SMS%20SENDER-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
 <br>
-<a href="https://t.me/technolk"><img title="Licence" src="https://img.shields.io/badge/isuruwa-TELEGRAM-blueviolet?style=for-the-badge&logo=appveyor"></a>
+<a href="https://t.me/technolk"><img title="addon" src="https://img.shields.io/badge/isuruwa-TELEGRAM-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <br>
 
 ## ABOUT TOOL :
@@ -16,7 +16,7 @@
 SMS is a python based script which is made for bombing a number which has a capable of runing within a auto updating Proxy List . 
 
 
-<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
 
 ## FEATURES :
 
@@ -31,7 +31,7 @@ SMS is a python based script which is made for bombing a number which has a capa
 5.Still Support for only Sri Lankan Numbers . 
 
 
-<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
 
 ## AVAILABLE ON :
 
