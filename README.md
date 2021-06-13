@@ -59,6 +59,12 @@ SMS is a python based script which is made for bombing a number which has a capa
 [+]-- Developer Is Not Responsible For any Misuse OF SMS Tool
 ```
 
+<img src="https://img.shields.io/badge/Special%20Thanks-Malith%20Rukshan%20For%20Providing%20API%20s-brightgreen?style=for-the-badge&logo=appveyor"/>
+
+<a href="https://github.com/Malith-Rukshan"><img title="thanks" src="https://img.shields.io/badge/GITHUB-Follow%20Him-blueviolet?style=flat-square&logo=appveyor"></a>
+                                                                                                                                                  
+
+
 <img src="https://img.shields.io/badge/isuruwa-Thank%20You-brightgreen?style=social&logo=appveyor"/>
 
 <img src="https://img.shields.io/badge/isuruwa-STAY%20SAFE-brightgreen?style=flat-square&logo=appveyor"/>
