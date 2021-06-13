@@ -1,48 +1,66 @@
 
 <a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-SMS-blue?style=for-the-badge&logo=appveyor"></a>
+<img src="https://img.icons8.com/nolan/64/auto-sms.png"/>
+<br>
+<p align="center">
+<img src="https://img.icons8.com/nolan/100/sms.png"/>
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-SPAM%20SMS%20SENDER-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
 <br>
-Spam Sms Sender
-<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://t.me/technolk"><img title="Licence" src="https://img.shields.io/badge/isuruwa-TELEGRAM-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <br>
-<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/SMS---SMS-brightgreen"></a>
-<br>
-Spam Sms Sender For Sri Lankan Numbers.
 
-**Features
+## ABOUT TOOL :
 
-1.Support for only Sri Lankan Numbers
-
-2.Still contains only one website Api. More website Apis will be released with future updates.
-
-3.Unlimited Spam SMS messaging
-
-Support me >> Github - https://github.com/isuruwa
-
-       >>Facebook - https://www.facebook.com/isuru.umayanga.37819
-
-**###Install In Termux###
-
-pkg update
-
-pkg upgrade
-
-pkg install toilet
-
-git clone https://github.com/isuruwa/SMS
-
-cd SMS
-
-pip install -r requirements.txt
-
-python sms.py
+SMS is a python based script which is made for bombing a number which has a capable of runing within a auto updating Proxy List . 
 
 
-******** SPECIAL - PC Version Included ********
+<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
 
-Link = https://github.com/isuruwa/SMS-PC
+## FEATURES :
+
+1.Contain Multiple API s. 
+
+2.Support Any Network SIM .
+
+3.No limitations due to auto updating proxy list .
+
+4.No any Balance Detucted.
+
+5.Still Support for only Sri Lankan Numbers . 
 
 
-Note - Sometimes it needs to turn off the Windows Defender To Run Tool .
+<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
+
+## AVAILABLE ON :
+
+* Termux
+
+<img src="https://img.icons8.com/bubbles/100/000000/short-hair-girl-messaging.png"/>
+
+
+## INSTALLATION [Termux] :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `apt install python -y`
+* `apt install python2 -y`
+* `apt install git -y`
+* `apt install ruby -y`
+* `gem install lolcat`
+* `apt install toilet`
+* `apt install fortune`
+* `apt install cowsay`
+
+```
+[+]-- Need internet connection to process
+[+]-- Only For Educational Purposes
+[+]-- Developer Is Not Responsible For any Misuse OF SMS Tool
+```
+
+<img src="https://img.shields.io/badge/isuruwa-Thank%20You-brightgreen?style=social&logo=appveyor"/>
+
+<img src="https://img.shields.io/badge/isuruwa-STAY%20SAFE-brightgreen?style=flat-square&logo=appveyor"/>
+
+<img src="https://img.shields.io/badge/isuruwa-EXPECT%20US-red?style=for-the-badge&logo=appveyor"/>
