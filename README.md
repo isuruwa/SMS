@@ -52,6 +52,10 @@ SMS is a python based script which is made for bombing a number which has a capa
 * `apt install toilet`
 * `apt install fortune`
 * `apt install cowsay`
+* `git clone https://isuruwa/SMS`
+* `cd SMS`
+* `pip install -r requirements.txt`
+* `python sms.py`
 
 ```
 [+]-- Need internet connection to process
