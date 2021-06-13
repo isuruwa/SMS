@@ -1,8 +1,14 @@
 
-# SMS
+<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-SMS-blue?style=for-the-badge&logo=appveyor"></a>
+<p align="center">
+<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/isuruwa-SPAM%20SMS%20SENDER-brightgreen?style=for-the-badge&logo=appveyor"></a>
+</p>
+<br>
 Spam Sms Sender
-
-
+<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<br>
+<a href="https://github.com/isuruwa"><img title="Licence" src="https://img.shields.io/badge/SMS---SMS-brightgreen"></a>
+<br>
 Spam Sms Sender For Sri Lankan Numbers.
 
 **Features
