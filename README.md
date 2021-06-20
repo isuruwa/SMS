@@ -3,7 +3,7 @@
 <img src="https://img.icons8.com/nolan/64/auto-sms.png"/>
 <br>
 <p align="center">
-<img src="https://img.icons8.com/nolan/100/sms.png"/>
+<img src="https://img.icons8.com/nolan/300/sms.png"/>
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-SPAM%20SMS%20SENDER-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
