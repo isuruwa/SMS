@@ -6,6 +6,12 @@
 <img src="https://img.icons8.com/nolan/300/sms.png"/>
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-SPAM%20SMS%20SENDER-brightgreen?style=for-the-badge&logo=appveyor"></a>
+  
+<p align="center">
+<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa" />
+</p>
+<br>
+
 </p>
 <br>
 <a href="https://t.me/technolk"><img title="addon" src="https://img.shields.io/badge/isuruwa-TELEGRAM-blueviolet?style=for-the-badge&logo=appveyor"></a>
