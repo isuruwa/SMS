@@ -88,6 +88,9 @@ SMS is a python based script which is made for bombing a number which has a capa
 
 ![Screenshot_20210613-152955_Termux](https://user-images.githubusercontent.com/72663288/121805759-2a1bd980-cc6a-11eb-9de1-3b32a11ce14d.jpg)
 
+![Screenshot_20210622-165340_Termux_LI](https://user-images.githubusercontent.com/72663288/122916622-b6b94c80-d37a-11eb-8685-50dce7b97f9d.jpg)
+
+
 
 
 
