@@ -28,11 +28,11 @@ SMS is a python based script which is made for bombing a number which has a capa
 
 ## FEATURES :
 
-1.Contain Multiple API s. 
+1.Added Multiple API s. 
 
-2.Support Any Network SIM .
+2.Support Any Network SIM .( Each Network has unique API s )
 
-3.No limitations due to auto updating proxy list .
+3.No Requesting limitations due to auto updating proxy list .
 
 4.No any Balance Detucted.
 
