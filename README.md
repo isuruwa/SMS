@@ -1,5 +1,5 @@
 
-## PROXY LIST NOT WORKING .. ONLY REQUESTING .. WAIT TILL FOR UPDATE
+## PROXY LIST FIXED ...
 
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-SMS-blue?style=for-the-badge&logo=appveyor"></a>
 <img src="https://img.icons8.com/nolan/64/auto-sms.png"/>
